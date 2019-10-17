@@ -1,5 +1,5 @@
 ﻿{
-	"token": "NTUxNDIyNDEzMTA4MjgxMzQ1.XQrK6A.__rCNpzHFWtFGiaTk3A2yrKL8n4",
+	"token": "process.env.TOKEN2",
 	"initcmd": "r",
 	"id": "447132666924498945"
 }
